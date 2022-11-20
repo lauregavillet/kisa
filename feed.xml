@@ -3,12 +3,28 @@
     <title>Gestion de contenu</title>
     <link href="https://lauregavillet.github.io/kisa/feed.xml" rel="self" />
     <link href="https://lauregavillet.github.io/kisa" />
-    <updated>2022-11-20T20:32:22+01:00</updated>
+    <updated>2022-11-20T20:43:08+01:00</updated>
     <author>
         <name>Laure Gavillet</name>
     </author>
     <id>https://lauregavillet.github.io/kisa</id>
 
+    <entry>
+        <title>Bonjour chez vous</title>
+        <author>
+            <name>Laure Gavillet</name>
+        </author>
+        <link href="https://lauregavillet.github.io/kisa/bonjour-chez-vous.html"/>
+        <id>https://lauregavillet.github.io/kisa/bonjour-chez-vous.html</id>
+
+        <updated>2022-11-20T20:43:08+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://lauregavillet.github.io/kisa/media/posts/2/thB180CBEG.jpg" sizes="100vw" srcset="https://lauregavillet.github.io/kisa/media/posts/2/responsive/thB180CBEG-xs.jpg 300w ,https://lauregavillet.github.io/kisa/media/posts/2/responsive/thB180CBEG-sm.jpg 480w ,https://lauregavillet.github.io/kisa/media/posts/2/responsive/thB180CBEG-md.jpg 768w ,https://lauregavillet.github.io/kisa/media/posts/2/responsive/thB180CBEG-lg.jpg 1024w ,https://lauregavillet.github.io/kisa/media/posts/2/responsive/thB180CBEG-xl.jpg 1360w ,https://lauregavillet.github.io/kisa/media/posts/2/responsive/thB180CBEG-2xl.jpg 1600w"  alt="" width="393" height="295"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Voici mon site</title>
         <author>

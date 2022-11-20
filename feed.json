@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://lauregavillet.github.io/kisa/bonjour-chez-vous.html",
+            "url": "https://lauregavillet.github.io/kisa/bonjour-chez-vous.html",
+            "title": "Bonjour chez vous",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lauregavillet.github.io/kisa/media/posts/2/thB180CBEG.jpg\" sizes=\"100vw\" srcset=\"https://lauregavillet.github.io/kisa/media/posts/2/responsive/thB180CBEG-xs.jpg 300w ,https://lauregavillet.github.io/kisa/media/posts/2/responsive/thB180CBEG-sm.jpg 480w ,https://lauregavillet.github.io/kisa/media/posts/2/responsive/thB180CBEG-md.jpg 768w ,https://lauregavillet.github.io/kisa/media/posts/2/responsive/thB180CBEG-lg.jpg 1024w ,https://lauregavillet.github.io/kisa/media/posts/2/responsive/thB180CBEG-xl.jpg 1360w ,https://lauregavillet.github.io/kisa/media/posts/2/responsive/thB180CBEG-2xl.jpg 1600w\"  alt=\"\" width=\"393\" height=\"295\"></figure>",
+            "author": {
+                "name": "Laure Gavillet"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-20T20:43:08+01:00",
+            "date_modified": "2022-11-20T20:43:08+01:00"
+        },
+        {
             "id": "https://lauregavillet.github.io/kisa/voici-mon-site.html",
             "url": "https://lauregavillet.github.io/kisa/voici-mon-site.html",
             "title": "Voici mon site",
