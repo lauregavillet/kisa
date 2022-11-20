@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Gestion de contenu",
+    "description": "",
+    "home_page_url": "https://lauregavillet.github.io/kisa",
+    "feed_url": "https://lauregavillet.github.io/kisa/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Laure Gavillet"
+    },
+    "items": [
+        {
+            "id": "https://lauregavillet.github.io/kisa/voici-mon-site.html",
+            "url": "https://lauregavillet.github.io/kisa/voici-mon-site.html",
+            "title": "Voici mon site",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lauregavillet.github.io/kisa/media/posts/1/montagne-de-livres.jpg\" sizes=\"100vw\" srcset=\"https://lauregavillet.github.io/kisa/media/posts/1/responsive/montagne-de-livres-xs.jpg 300w ,https://lauregavillet.github.io/kisa/media/posts/1/responsive/montagne-de-livres-sm.jpg 480w ,https://lauregavillet.github.io/kisa/media/posts/1/responsive/montagne-de-livres-md.jpg 768w ,https://lauregavillet.github.io/kisa/media/posts/1/responsive/montagne-de-livres-lg.jpg 1024w ,https://lauregavillet.github.io/kisa/media/posts/1/responsive/montagne-de-livres-xl.jpg 1360w ,https://lauregavillet.github.io/kisa/media/posts/1/responsive/montagne-de-livres-2xl.jpg 1600w\"  alt=\"\" width=\"634\" height=\"324\"></figure>",
+            "author": {
+                "name": "Laure Gavillet"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-25T14:59:40+02:00",
+            "date_modified": "2022-11-20T20:26:58+01:00"
+        }
+    ]
+}

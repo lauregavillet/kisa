@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Gestion de contenu</title>
+    <link href="https://lauregavillet.github.io/kisa/feed.xml" rel="self" />
+    <link href="https://lauregavillet.github.io/kisa" />
+    <updated>2022-11-20T20:26:58+01:00</updated>
+    <author>
+        <name>Laure Gavillet</name>
+    </author>
+    <id>https://lauregavillet.github.io/kisa</id>
+
+    <entry>
+        <title>Voici mon site</title>
+        <author>
+            <name>Laure Gavillet</name>
+        </author>
+        <link href="https://lauregavillet.github.io/kisa/voici-mon-site.html"/>
+        <id>https://lauregavillet.github.io/kisa/voici-mon-site.html</id>
+
+        <updated>2022-11-20T20:26:58+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://lauregavillet.github.io/kisa/media/posts/1/montagne-de-livres.jpg" sizes="100vw" srcset="https://lauregavillet.github.io/kisa/media/posts/1/responsive/montagne-de-livres-xs.jpg 300w ,https://lauregavillet.github.io/kisa/media/posts/1/responsive/montagne-de-livres-sm.jpg 480w ,https://lauregavillet.github.io/kisa/media/posts/1/responsive/montagne-de-livres-md.jpg 768w ,https://lauregavillet.github.io/kisa/media/posts/1/responsive/montagne-de-livres-lg.jpg 1024w ,https://lauregavillet.github.io/kisa/media/posts/1/responsive/montagne-de-livres-xl.jpg 1360w ,https://lauregavillet.github.io/kisa/media/posts/1/responsive/montagne-de-livres-2xl.jpg 1600w"  alt="" width="634" height="324"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
